@@ -1,12 +1,12 @@
 body {
     color: white;
-    background-color: rgb(63, 8, 105);
+    background-color: rgb(178, 145, 203);
 }
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 42px;
-    color: #b80c84ce
+    color: #b80c84
 }
 
 p {
@@ -17,5 +17,18 @@ p {
 li {
     font-size: large;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.intro {
+    width: 600px;
+    background-color: #5e3673;
+    margin: 32px auto;
+    padding: 16px;
+    text-align: center;
+}
+
+.list {
+    width: fit-content;
+    margin: 48px auto;
 }
 
